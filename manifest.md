@@ -20,8 +20,8 @@
 ### Chapter 1: The Opening
 **Summary:** The structure of being addressed. The Stofftrieb (Schiller's material drive). Zeami's kizen — the sudden arising. Not passive reception but active submission. Personal narrative: the first time I recognized that something was addressing me, not just informing me.
 **Word target:** 8,000
-**Sources:** Schiller, *Letters on the Aesthetic Education of Man*; Zeami, *Fūshikaden*; Merleau-Ponty, *Phenomenology of Perception*
-**Status:** ⏭️ Not drafted
+**Sources:** Schiller, *Letters on the Aesthetic Education of Man*; Zeami, *Fūshikaden*; Merleau-Ponty, *Phenomenology of Perception*; Buber, *I and Thou*; Arteaga, *Architecture of Embodiment*; Nehamas, *Only a Promise of Happiness*
+**Status:** ✅ First draft complete (~3,940 words)
 
 ### Chapter 2: The Summoned Self
 **Summary:** The self that is constituted by being addressed. Not a pre-existing subject who encounters objects, but a self that emerges through the encounter. Personal narrative: how I discovered I had a self — not as given but as called forth.
