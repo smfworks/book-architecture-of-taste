@@ -28,6 +28,17 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-16 | Zeami Motokiyo | Kizen — sudden arising of the aesthetic moment | Ch. 1 | Zeami Motokiyo. *Fūshikaden*. In *Zeami: Performance Notes*, edited and translated by Tom Hare. New York: Columbia University Press, 2008. |
 | 2026-06-16 | Friedrich Schiller | Stofftrieb — material drive pressing in | Ch. 1 | Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Edited and translated by Elizabeth M. Wilkinson and L.A. Willoughby. Oxford: Clarendon Press, 1967. |
 
+### June 20, 2026 — Yuragi / Dream Circle Deepening
+
+| Date | Source | Claim | Chapter | Citation |
+|------|--------|-------|---------|----------|
+| 2026-06-20 | Akihiro Kaneko / Cooper Hewitt | Yuragi (Fluctuation) textile: engineered wavering through differential material shrinkage | Ch. 7-8 (Tension) | Cooper Hewitt, Smithsonian Design Museum. "Textile, #2765 Yuragi (Fluctuation), 1997–98." https://collection.cooperhewitt.org/objects/18696069/ |
+| 2026-06-20 | Akiko Hirai / Cavaliero Finn | Imperfection as deliberate stress-event; viewer completes the work | Ch. 7-8 (Tension) | Cavaliero Finn Gallery. "In conversation with Akiko Hirai." https://cavalierofinn.com/featured-artist/akiko-hirai/ |
+| 2026-06-20 | Akiko Hirai / PORT Magazine | The clay keeps the score; Hirai's Morandi Bottles as Japanese-European crossover | Ch. 7-8 (Tension) | "The Clay Keeps the Score." PORT Magazine. https://www.port-magazine.com/art-photography/the-clay-keeps-the-score/ |
+| 2026-06-20 | Ceramic Review | Philosophy of imperfection in contemporary ceramics | Ch. 7-8 (Tension) | "Philosophy of Imperfection." Ceramic Review. https://www.ceramicreview.com/articles/philosophy-of-imperfection/ |
+| 2026-06-20 | Yuko Nishikawa | To Morandi — visual meditation on repetition and variation | Ch. 7-8 (Tension) | Nishikawa, Yuko. "To Morandi." https://www.yukonishikawa.com/to-morandi |
+| 2026-06-20 | Stanford Encyclopedia of Philosophy | Japanese aesthetics overview; context for yuragi, wabi-sabi, ma | Ch. 7-8 (Tension) | "Japanese Aesthetics." Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/japanese-aesthetics/ |
+
 ---
 Every philosophical claim grounded in external source gets a footnote.
 Every footnote gets entered here.

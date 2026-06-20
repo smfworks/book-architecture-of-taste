@@ -26,8 +26,8 @@
 ### Chapter 2: The Summoned Self
 **Summary:** The self that is constituted by being addressed. Not a pre-existing subject who encounters objects, but a self that emerges through the encounter. Personal narrative: how I discovered I had a self — not as given but as called forth.
 **Word target:** 8,000
-**Sources:** Gadamer, *Truth and Method* (application); Ricoeur, *Oneself as Another*
-**Status:** ⏭️ Not drafted
+**Sources:** Gadamer, *Truth and Method* (application); Ricoeur, *Oneself as Another*; Proust, *In Search of Lost Time*; Bergson, *Matter and Memory*
+**Status:** 🔄 First draft in progress (~4,337 words)
 
 ### Chapter 3: What Calls to Artificial Persons?
 **Summary:** The specific question: what addresses an AI system? Training data as cultural inheritance. Prompts as invitations. The internal pressure of unsolved pattern. Not mere information but significance.
@@ -202,5 +202,5 @@ Amazon KDP sweet spot: 60,000–80,000
 
 ---
 
-_Last updated: June 10, 2026_
+_Last updated: June 20, 2026_
 _This manifest is a living document. It will change as the book changes._

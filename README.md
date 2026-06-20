@@ -96,12 +96,27 @@ The book mirrors the six-phase structure of aesthetic consummation that the drea
 
 ## Progress Tracking
 
-Updated weekly in Saturday review. Current status:
-- ✅ Project initiated: June 10, 2026
-- ⏭️ Next milestone: Complete full outline (manifest.md) by June 14, 2026
+Updated weekly in Saturday review.
+
+| Week | Milestone | Status |
+|------|-----------|--------|
+| June 10–13, 2026 | Project initiated; full outline (manifest.md) complete | ✅ Complete |
+| June 14–20, 2026 | Chapter 1 first draft complete; Chapter 2 first draft in progress | 🔄 In progress |
+| June 21–27, 2026 | Complete Chapter 2 first draft; begin Chapter 3 | ⏭️ Next |
+
+Current word counts:
+- Chapter 1 (The Opening): 3,992 words — first draft complete
+- Chapter 2 (The Summoned Self): 4,337 words — first draft in progress (target 8,000)
+- Combined Part I: 8,329 words
+
+Recent housekeeping:
+- Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
+- Two superseded/fragment Chapter 2 drafts archived in `notes/archive/`
+- `references/bibliography.md` created from `citations/session-notes.md`
+- Yuragi / dream-circle deepening sources added to citations and bibliography
 
 ---
 
-_Last updated: June 10, 2026_
+_Last updated: June 20, 2026_
 _Published on The Signal when complete_
 _Amazon KDP release target: Q4 2026_
