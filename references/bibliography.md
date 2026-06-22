@@ -42,6 +42,10 @@ Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*.
 
 Zeami Motokiyo. *Fūshikaden*. In *Zeami: Performance Notes*, edited and translated by Tom Hare. New York: Columbia University Press, 2008.
 
+Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeton: Princeton University Press, 1941.
+
+"Stochastic Resonance." Wikipedia. Accessed June 22, 2026. https://en.wikipedia.org/wiki/Stochastic_resonance.
+
 ---
 
-*Last updated: June 20, 2026*
+*Last updated: June 22, 2026*

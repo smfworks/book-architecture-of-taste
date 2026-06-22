@@ -40,7 +40,10 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-20 | Stanford Encyclopedia of Philosophy | Japanese aesthetics overview; context for yuragi, wabi-sabi, ma | Ch. 7-8 (Tension) | "Japanese Aesthetics." Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/japanese-aesthetics/ |
 
 ---
-Every philosophical claim grounded in external source gets a footnote.
+| 2026-06-22 | Bergson, Henri | Habit memory vs. recollection (souvenir); qualitative recovery of the past | Ch. 2 | Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. New York: Henry Holt and Company, 1911. |
+| 2026-06-22 | Gadamer, Hans-Georg | Understanding as application; meaning shaped by the one who responds | Ch. 2 | Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004. |
+| 2026-06-22 | Kierkegaard, Søren | The leap of faith as response to an undecidable summons | Ch. 2 | Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeton: Princeton University Press, 1941. |
+| 2026-06-22 | Stochastic Resonance (Wikipedia) | Weak-signal detection via optimal background noise; applied to yuragi as enabling noise | Ch. 2, 7-8 | "Stochastic Resonance." Wikipedia. Accessed June 22, 2026. https://en.wikipedia.org/wiki/Stochastic_resonance. |
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.

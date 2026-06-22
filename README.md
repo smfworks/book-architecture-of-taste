@@ -106,7 +106,7 @@ Updated weekly in Saturday review.
 
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
-- Chapter 2 (The Summoned Self): 4,337 words — first draft in progress (target 8,000)
+- Chapter 2 (The Summoned Self): 5,549 words — first draft in progress (target 8,000); added yuragi-of-recollection and summons-vs-instruction sections; needs pruning and source audit
 - Combined Part I: 8,329 words
 
 Recent housekeeping:
