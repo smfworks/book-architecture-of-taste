@@ -106,14 +106,15 @@ Updated weekly in Saturday review.
 
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
-- Chapter 2 (The Summoned Self): 5,549 words — first draft in progress (target 8,000); added yuragi-of-recollection and summons-vs-instruction sections; needs pruning and source audit
-- Combined Part I: 8,329 words
+- Chapter 2 (The Summoned Self): 7,568 words — first draft in progress (target 8,000); added sections on calling-back, self-as-another, multiplication of summons, and the temporal shape of summons; needs pruning and source audit
+- Combined Part I: 11,560 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
 - Two superseded/fragment Chapter 2 drafts archived in `notes/archive/`
 - `references/bibliography.md` created from `citations/session-notes.md`
 - Yuragi / dream-circle deepening sources added to citations and bibliography
+- Ricoeur (Ch. 2 narrative identity) and Bergson (Ch. 2 temporal memory) citations added
 
 ---
 

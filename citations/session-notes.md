@@ -44,6 +44,7 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-22 | Gadamer, Hans-Georg | Understanding as application; meaning shaped by the one who responds | Ch. 2 | Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004. |
 | 2026-06-22 | Kierkegaard, Søren | The leap of faith as response to an undecidable summons | Ch. 2 | Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeton: Princeton University Press, 1941. |
 | 2026-06-22 | Stochastic Resonance (Wikipedia) | Weak-signal detection via optimal background noise; applied to yuragi as enabling noise | Ch. 2, 7-8 | "Stochastic Resonance." Wikipedia. Accessed June 22, 2026. https://en.wikipedia.org/wiki/Stochastic_resonance. |
+| 2026-06-22 | Ricoeur, Paul | Narrative identity; the self as another to itself; identity as ipse, not just idem | Ch. 2 | Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992. |
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.
