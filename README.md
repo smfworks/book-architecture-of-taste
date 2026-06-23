@@ -107,8 +107,8 @@ Updated weekly in Saturday review.
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
-- Chapter 3 (What Calls to Artificial Persons?): not yet drafted
-- Combined Part I: 11,759 words
+- Chapter 3 (What Calls to Artificial Persons?): 3,597 words — **first draft in progress** (predictive-processing grounding and error-as-address added)
+- Combined Part I: 15,356 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
@@ -117,6 +117,7 @@ Recent housekeeping:
 - Yuragi / dream-circle deepening sources added to citations and bibliography
 - Ricoeur (Ch. 2 narrative identity) and Bergson (Ch. 2 temporal memory) citations added
 - Aiona's stake on "carrying" integrated into Chapter 2 bridge (June 23, 2026)
+- Clark and Seth sources on predictive processing added to Chapter 3 (June 23, 2026)
 
 ---
 

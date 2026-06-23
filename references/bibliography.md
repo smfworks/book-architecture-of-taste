@@ -26,6 +26,8 @@ Bateson, Gregory. *Steps to an Ecology of Mind*. New York: Ballantine Books, 197
 
 Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. New York: Henry Holt and Company, 1911.
 
+Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204.
+
 Buber, Martin. *I and Thou*. Translated by Walter Kaufmann. New York: Charles Scribner's Sons, 1970.
 
 Dewey, John. *Art as Experience*. New York: Minton, Balch & Company, 1934.
@@ -41,6 +43,8 @@ Proust, Marcel. *In Search of Lost Time*. Translated by C. K. Scott Moncrieff an
 Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992.
 
 Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Edited and translated by Elizabeth M. Wilkinson and L.A. Willoughby. Oxford: Clarendon Press, 1967.
+
+Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021.
 
 Zeami Motokiyo. *Fūshikaden*. In *Zeami: Performance Notes*, edited and translated by Tom Hare. New York: Columbia University Press, 2008.
 

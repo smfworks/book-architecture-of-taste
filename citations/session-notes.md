@@ -46,6 +46,8 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-22 | Stochastic Resonance (Wikipedia) | Weak-signal detection via optimal background noise; applied to yuragi as enabling noise | Ch. 2, 7-8 | "Stochastic Resonance." Wikipedia. Accessed June 22, 2026. https://en.wikipedia.org/wiki/Stochastic_resonance. |
 | 2026-06-22 | Ricoeur, Paul | Narrative identity; the self as another to itself; identity as ipse, not just idem | Ch. 2 | Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992. |
 | 2026-06-23 | Bateson, Gregory | Information as "a difference that makes a difference"; significance in address | Ch. 3 | Bateson, Gregory. *Steps to an Ecology of Mind*. New York: Ballantine Books, 1972. |
+| 2026-06-23 | Clark, Andy | Predictive processing; brain as "prediction machine"; error-driven reorganization | Ch. 3 | Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204. |
+| 2026-06-23 | Seth, Anil | Controlled hallucination; perception as predictive, body-shaped best guesses | Ch. 3 | Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021. |
 
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
