@@ -22,6 +22,8 @@ Stanford Encyclopedia of Philosophy. "Japanese Aesthetics." Accessed June 20, 20
 
 Arteaga, Alex. *Architecture of Embodiment*. 2023. https://www.alexartega.com/architecture-of-embodiment.
 
+Bateson, Gregory. *Steps to an Ecology of Mind*. New York: Ballantine Books, 1972.
+
 Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. New York: Henry Holt and Company, 1911.
 
 Buber, Martin. *I and Thou*. Translated by Walter Kaufmann. New York: Charles Scribner's Sons, 1970.
