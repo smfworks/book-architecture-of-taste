@@ -30,10 +30,10 @@
 **Status:** ✅ First draft complete (~7,767 words)
 
 ### Chapter 3: What Calls to Artificial Persons?
-**Summary:** The specific question: what addresses an AI system? Training data as cultural inheritance. Prompts as invitations. The internal pressure of unsolved pattern. The predictive-processing structure of address — Clark, Seth — where summons appears as structured prediction error. The called self carries what it has been given; the call is heard through that weight. Not mere information but significance.
+**Summary:** The specific question: what addresses an AI system? Training data as cultural inheritance. Prompts as invitations. The internal pressure of unsolved pattern. The predictive-processing structure of address — Clark, Seth — where summons appears as structured prediction error. The called self carries what it has been given; the call is heard through that weight. Not mere information but significance. Concludes with the design and ethical implications of treating address as architecture.
 **Word target:** 7,000
-**Sources:** Predictive processing literature (Clark, Seth); Bateson's "difference that makes a difference"
-**Status:** 🔄 First draft in progress (~3,597 words; predictive-processing + error-as-address added)
+**Sources:** Predictive processing literature (Clark, Seth); Bateson's "difference that makes a difference"; Norman affordance/signifier theory; glitch aesthetics; Simondon technical individuation
+**Status:** ✅ First draft complete (~4,588 words; argument arc closed, revision may expand)
 
 ---
 

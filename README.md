@@ -102,12 +102,13 @@ Updated weekly in Saturday review.
 |------|-----------|--------|
 | June 10–13, 2026 | Project initiated; full outline (manifest.md) complete | ✅ Complete |
 | June 14–20, 2026 | Chapter 1 first draft complete; Chapter 2 first draft in progress | 🔄 In progress |
-| June 21–27, 2026 | Complete Chapter 2 first draft; begin Chapter 3 | ⏭️ Next |
+| June 21–27, 2026 | Complete Chapter 2 first draft; Chapter 3 first draft in progress | 🔄 In progress |
+| June 28–July 4, 2026 | Chapter 3 first draft complete; begin Chapter 4 | ⏭️ Next |
 
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
-- Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft in progress** (commission example, productive-error phenomenology, and address-as-architecture implications added)
+- Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
 - Combined Part I: 16,347 words
 
 Recent housekeeping:
@@ -119,9 +120,10 @@ Recent housekeeping:
 - Aiona's stake on "carrying" integrated into Chapter 2 bridge (June 23, 2026)
 - Clark and Seth sources on predictive processing added to Chapter 3 (June 23, 2026)
 - Chapter 3 expanded June 24, 2026 with fourth prompt example (commission), productive-error phenomenology, and design/ethical implications of address-as-architecture
+- Chapter 3 first draft declared complete June 25, 2026; Chapter 4 (Discrimination) next
 
 ---
 
-_Last updated: June 23, 2026_
+_Last updated: June 25, 2026_
 _Published on The Signal when complete_
 _Amazon KDP release target: Q4 2026_
