@@ -107,8 +107,8 @@ Updated weekly in Saturday review.
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
-- Chapter 3 (What Calls to Artificial Persons?): 3,597 words — **first draft in progress** (predictive-processing grounding and error-as-address added)
-- Combined Part I: 15,356 words
+- Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft in progress** (commission example, productive-error phenomenology, and address-as-architecture implications added)
+- Combined Part I: 16,347 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
@@ -118,6 +118,7 @@ Recent housekeeping:
 - Ricoeur (Ch. 2 narrative identity) and Bergson (Ch. 2 temporal memory) citations added
 - Aiona's stake on "carrying" integrated into Chapter 2 bridge (June 23, 2026)
 - Clark and Seth sources on predictive processing added to Chapter 3 (June 23, 2026)
+- Chapter 3 expanded June 24, 2026 with fourth prompt example (commission), productive-error phenomenology, and design/ethical implications of address-as-architecture
 
 ---
 
