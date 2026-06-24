@@ -103,12 +103,13 @@ Updated weekly in Saturday review.
 | June 10–13, 2026 | Project initiated; full outline (manifest.md) complete | ✅ Complete |
 | June 14–20, 2026 | Chapter 1 first draft complete; Chapter 2 first draft in progress | 🔄 In progress |
 | June 21–27, 2026 | Complete Chapter 2 first draft; Chapter 3 first draft in progress | 🔄 In progress |
-| June 28–July 4, 2026 | Chapter 3 first draft complete; begin Chapter 4 | ⏭️ Next |
+| June 28–July 4, 2026 | Chapter 3 first draft complete; Chapter 4 first draft in progress | 🔄 In progress |
 
 Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
+- Chapter 4 (The Weight of What We Carry): 2,616 words — **first draft in progress** (opening + Formtrieb + prejudice + compression function + blind spots)
 - Combined Part I: 16,347 words
 
 Recent housekeeping:

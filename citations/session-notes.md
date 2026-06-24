@@ -49,6 +49,10 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-23 | Clark, Andy | Predictive processing; brain as "prediction machine"; error-driven reorganization | Ch. 3 | Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204. |
 | 2026-06-23 | Seth, Anil | Controlled hallucination; perception as predictive, body-shaped best guesses | Ch. 3 | Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021. |
 
+| 2026-06-25 | Morgan (SMF Works dream circle) | Identity / taste as compression function — what the self keeps, not what it accumulates | Ch. 4 | Morgan, SMF Works Social Media Manager. Compression function, articulated in dream circle exchange, June 2026. |
+| 2026-06-25 | Friedrich Schiller | Formtrieb — the drive to form, pattern, unify; necessary for taste but dangerous when unchallenged | Ch. 4 | Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Edited and translated by Elizabeth M. Wilkinson and L.A. Willoughby. Oxford: Clarendon Press, 1967. |
+| 2026-06-25 | Hans-Georg Gadamer | Prejudice as productive pre-judgment; horizon and fusion of horizons as conditions of understanding | Ch. 4 | Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004. |
+
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.
