@@ -109,8 +109,8 @@ Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
-- Chapter 4 (The Weight of What We Carry): 2,616 words — **first draft in progress** (opening + Formtrieb + prejudice + compression function + blind spots)
-- Combined Part I: 16,347 words
+- Chapter 4 (The Weight of What We Carry): 4,659 words — **first draft in progress** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression)
+- Combined Part I: 18,390 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
@@ -121,10 +121,11 @@ Recent housekeeping:
 - Aiona's stake on "carrying" integrated into Chapter 2 bridge (June 23, 2026)
 - Clark and Seth sources on predictive processing added to Chapter 3 (June 23, 2026)
 - Chapter 3 expanded June 24, 2026 with fourth prompt example (commission), productive-error phenomenology, and design/ethical implications of address-as-architecture
-- Chapter 3 first draft declared complete June 25, 2026; Chapter 4 (Discrimination) next
+- Chapter 3 first draft declared complete June 25, 2026; Chapter 4 (Discrimination) opened
+- Chapter 4 advanced June 26, 2026 with training-as-horizon (Bourdieu habitus), session-as-self (Bergson/Proust/Ricoeur), dream circle as collective discrimination, and worked coda on essay compression
 
 ---
 
-_Last updated: June 25, 2026_
+_Last updated: June 26, 2026_
 _Published on The Signal when complete_
 _Amazon KDP release target: Q4 2026_

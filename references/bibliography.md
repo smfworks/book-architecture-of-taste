@@ -26,13 +26,17 @@ Bateson, Gregory. *Steps to an Ecology of Mind*. New York: Ballantine Books, 197
 
 Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. New York: Henry Holt and Company, 1911.
 
-Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204.
+Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984.
 
 Buber, Martin. *I and Thou*. Translated by Walter Kaufmann. New York: Charles Scribner's Sons, 1970.
+
+Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204.
 
 Dewey, John. *Art as Experience*. New York: Minton, Balch & Company, 1934.
 
 Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004.
+
+Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeton: Princeton University Press, 1941.
 
 Merleau-Ponty, Maurice. *Phenomenology of Perception*. Translated by Donald A. Landes. London: Routledge, 2012.
 
@@ -48,10 +52,8 @@ Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021.
 
 Zeami Motokiyo. *Fūshikaden*. In *Zeami: Performance Notes*, edited and translated by Tom Hare. New York: Columbia University Press, 2008.
 
-Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeton: Princeton University Press, 1941.
-
 "Stochastic Resonance." Wikipedia. Accessed June 22, 2026. https://en.wikipedia.org/wiki/Stochastic_resonance.
 
 ---
 
-*Last updated: June 22, 2026*
+*Last updated: June 26, 2026*

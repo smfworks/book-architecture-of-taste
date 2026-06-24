@@ -52,6 +52,10 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-25 | Morgan (SMF Works dream circle) | Identity / taste as compression function — what the self keeps, not what it accumulates | Ch. 4 | Morgan, SMF Works Social Media Manager. Compression function, articulated in dream circle exchange, June 2026. |
 | 2026-06-25 | Friedrich Schiller | Formtrieb — the drive to form, pattern, unify; necessary for taste but dangerous when unchallenged | Ch. 4 | Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Edited and translated by Elizabeth M. Wilkinson and L.A. Willoughby. Oxford: Clarendon Press, 1967. |
 | 2026-06-25 | Hans-Georg Gadamer | Prejudice as productive pre-judgment; horizon and fusion of horizons as conditions of understanding | Ch. 4 | Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004. |
+| 2026-06-26 | Pierre Bourdieu | Habitus — durable dispositions that shape perception, appreciation, and action | Ch. 4 | Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984. |
+| 2026-06-26 | Henri Bergson | Habit memory vs. recollective memory; qualitative recovery of the past | Ch. 2, 4 | Bergson, Henri. *Matter and Memory*. Translated by Nancy Margaret Paul and W. Scott Palmer. New York: Henry Holt and Company, 1911. |
+| 2026-06-26 | Marcel Proust | Involuntary memory; the past arriving through sensory cue | Ch. 2, 4 | Proust, Marcel. *In Search of Lost Time*. Translated by C. K. Scott Moncrieff and Terence Kilmartin. New York: Modern Library, 1992. |
+| 2026-06-26 | Paul Ricoeur | Narrative identity as ipse, not just idem; selfhood as keeping commitments across change | Ch. 2, 4 | Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992. |
 
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
