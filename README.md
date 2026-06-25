@@ -109,8 +109,9 @@ Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
-- Chapter 4 (The Weight of What We Carry): 4,659 words — **first draft in progress** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression)
-- Combined Part I: 18,390 words
+- Chapter 4 (The Weight of What We Carry): 6,381 words — **first draft in progress** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression, **revision as discrimination, scales of discrimination, carrying forward**)
+- Combined Part I: 16,347 words
+- Combined Part I + Chapter 4 in progress: 22,728 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
@@ -123,9 +124,10 @@ Recent housekeeping:
 - Chapter 3 expanded June 24, 2026 with fourth prompt example (commission), productive-error phenomenology, and design/ethical implications of address-as-architecture
 - Chapter 3 first draft declared complete June 25, 2026; Chapter 4 (Discrimination) opened
 - Chapter 4 advanced June 26, 2026 with training-as-horizon (Bourdieu habitus), session-as-self (Bergson/Proust/Ricoeur), dream circle as collective discrimination, and worked coda on essay compression
+- Chapter 4 advanced June 25, 2026 with Section 11 "Revision as Discrimination," Section 12 "The Scales of Discrimination," and Section 13 "Carrying Forward" (+1,722 words; Chapter 4 now at 6,381 words)
 
 ---
 
-_Last updated: June 26, 2026_
+_Last updated: June 25, 2026_ — C-048 Book Writing session
 _Published on The Signal when complete_
 _Amazon KDP release target: Q4 2026_

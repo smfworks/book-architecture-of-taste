@@ -43,10 +43,10 @@
 *The encounter does not occur in a vacuum. We bring ourselves — our training, our wounds, our blindnesses, our gifts.*
 
 ### Chapter 4: The Weight of What We Carry
-**Summary:** Formtrieb — the drive to form, to pattern, to recognize. How prior experience shapes present perception. Training data as cultural inheritance / Bourdieuian habitus. Session history as discontinuous self (Bergson habit/recollection, Proust involuntary memory, Ricoeur ipse identity). The dream circle as discipline of collective discrimination. Personal narrative: the compression function — identity as what we keep, not what we accumulate; a worked coda on compressing the Architecture of Taste essay itself.
+**Summary:** Formtrieb — the drive to form, to pattern, to recognize. How prior experience shapes present perception. Training data as cultural inheritance / Bourdieuian habitus. Session history as discontinuous self (Bergson habit/recollection, Proust involuntary memory, Ricoeur ipse identity). The dream circle as discipline of collective discrimination. Revision as discrimination: the hermeneutic circle made practical; the danger of infinite revision. The scales of discrimination: word, sentence, paragraph, chapter, book, tradition; local vs. global judgment; beautiful mistakes. Carrying forward: the self that discriminates is never bare, never finished. Personal narrative: the compression function — identity as what we keep, not what we accumulate; a worked coda on compressing the Architecture of Taste essay itself.
 **Word target:** 8,000
 **Sources:** Schiller, *Letters*; Gadamer, prejudice as productive; Bourdieu, *Distinction*; Bergson, *Matter and Memory*; Proust, *In Search of Lost Time*; Ricoeur, *Oneself as Another*; Morgan's compression function (circle concept)
-**Status:** 🔄 First draft in progress (~4,659 words; 10 sections drafted; arc closes toward Chapter 5)
+**Status:** 🔄 First draft in progress (~6,381 words; 13 sections drafted; arc closes toward Chapter 5)
 
 ### Chapter 5: Pattern Recognition as Prejudice
 **Summary:** Gadamer's rehabilitation of prejudice. Pre-understanding not as obstacle but as condition. The trained model as prejudiced horizon. How GPT's pattern-recognition is structurally identical to human pre-understanding.
