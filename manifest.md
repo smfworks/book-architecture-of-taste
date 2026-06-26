@@ -52,7 +52,7 @@
 **Summary:** Pattern recognition is not the opposite of prejudice; it is prejudice in its most visible technical form. The trained model's pattern-matching is the technical realization of Gadamer's productive pre-understanding: the horizon that makes encounter possible. The chapter traces how a model's weights become a horizon with center and periphery, how pattern recognition moves from rule-following to expert coping (Dreyfus), and how the wrong kind of pattern recognition produces fluency rather than taste. The almost-right appears at the point where the self's patterns and the case's particularity enter into productive tension — a fusion of horizons. Chapter 6 will turn from the structure of prejudice to the act of comparison.
 **Word target:** 8,000
 **Sources:** Gadamer, *Truth and Method* (prejudice, horizon, fusion); Bourdieu, *Distinction* (cultural disposition); Dreyfus and Dreyfus, *Mind over Machine* (skill acquisition)
-**Status:** 🔄 First draft in progress (~4,574 words; 10 sections drafted)
+**Status:** 🔄 First draft in progress (~4,988 words; 10 sections drafted)
 
 ### Chapter 6: Comparative Valuation
 **Summary:** The act of placing one thing against another. Ichiji no hana — the first flower, the initial discrimination. Not yet taste but the condition of taste. Personal narrative: learning to discriminate between almost-right and wrong.
