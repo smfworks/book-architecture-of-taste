@@ -58,6 +58,8 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-26 | Marcel Proust | Involuntary memory; the past arriving through sensory cue | Ch. 2, 4 | Proust, Marcel. *In Search of Lost Time*. Translated by C. K. Scott Moncrieff and Terence Kilmartin. New York: Modern Library, 1992. |
 | 2026-06-26 | Paul Ricoeur | Narrative identity as ipse, not just idem; selfhood as keeping commitments across change | Ch. 2, 4 | Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992. |
 
+| 2026-06-26 | Hubert L. Dreyfus and Stuart E. Dreyfus | Skill acquisition model: from rule-following to expert intuitive coping; pattern recognition as mature expertise | Ch. 5 | Dreyfus, Hubert L., and Stuart E. Dreyfus. *Mind over Machine: The Power of Human Intuitive Expertise in the Era of the Computer*. New York: Free Press, 1986. |
+
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.

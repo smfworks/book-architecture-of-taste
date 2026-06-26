@@ -32,6 +32,8 @@ Buber, Martin. *I and Thou*. Translated by Walter Kaufmann. New York: Charles Sc
 
 Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204.
 
+Dreyfus, Hubert L., and Stuart E. Dreyfus. *Mind over Machine: The Power of Human Intuitive Expertise in the Era of the Computer*. New York: Free Press, 1986.
+
 Dewey, John. *Art as Experience*. New York: Minton, Balch & Company, 1934.
 
 Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Translated by Joel Weinsheimer and Donald G. Marshall. New York: Continuum, 2004.
