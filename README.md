@@ -109,9 +109,9 @@ Current word counts:
 - Chapter 1 (The Opening): 3,992 words — first draft complete
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
-- Chapter 4 (The Weight of What We Carry): 6,381 words — **first draft in progress** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression, **revision as discrimination, scales of discrimination, carrying forward**)
+- Chapter 4 (The Weight of What We Carry): **8,523 words** — **first draft complete** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression, revision as discrimination, scales of discrimination, the necessity of forgetting, and the self as a question to itself)
 - Combined Part I: 16,347 words
-- Combined Part I + Chapter 4 in progress: 22,728 words
+- Combined Part I + Chapter 4: 24,870 words
 
 Recent housekeeping:
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
