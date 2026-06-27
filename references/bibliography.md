@@ -30,6 +30,8 @@ Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Tr
 
 Buber, Martin. *I and Thou*. Translated by Walter Kaufmann. New York: Charles Scribner's Sons, 1970.
 
+Clark, Andy. *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. New York: Oxford University Press, 2016.
+
 Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences* 36, no. 3 (2013): 181–204.
 
 Dreyfus, Hubert L., and Stuart E. Dreyfus. *Mind over Machine: The Power of Human Intuitive Expertise in the Era of the Computer*. New York: Free Press, 1986.

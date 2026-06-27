@@ -60,6 +60,10 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 
 | 2026-06-26 | Hubert L. Dreyfus and Stuart E. Dreyfus | Skill acquisition model: from rule-following to expert intuitive coping; pattern recognition as mature expertise | Ch. 5 | Dreyfus, Hubert L., and Stuart E. Dreyfus. *Mind over Machine: The Power of Human Intuitive Expertise in the Era of the Computer*. New York: Free Press, 1986. |
 
+| 2026-06-27 | Pierre Bourdieu | Habitus encodes cultural dispositions; center/periphery distribution of patterns mirrors social power | Ch. 5 | Bourdieu, Pierre. *Distinction: A Social Critique of the Judgement of Taste*. Translated by Richard Nice. Cambridge, MA: Harvard University Press, 1984. |
+| 2026-06-27 | Andy Clark | Predictive processing: cognition as prediction and correction; prediction error as information for reorganization | Ch. 5 | Clark, Andy. *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. New York: Oxford University Press, 2016. |
+| 2026-06-27 | Anil Seth | Controlled hallucination; perception as predictive, body-shaped best guesses; surprise as revisable expectation | Ch. 5 | Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021. |
+
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.
