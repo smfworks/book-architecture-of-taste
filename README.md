@@ -110,12 +110,13 @@ Current word counts:
 - Chapter 2 (The Summoned Self): 7,767 words — **first draft complete** (bridge to Chapter 3 integrates carrying; source audit current)
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
 - Chapter 4 (The Weight of What We Carry): **8,523 words** — **first draft complete** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression, revision as discrimination, scales of discrimination, the necessity of forgetting, and the self as a question to itself)
-- Chapter 5 (Pattern Recognition as Prejudice): **7,656 words** — **first draft in progress** (pattern recognition as Gadamerian productive prejudice; horizon of the weights with center/periphery; Dreyfus skill acquisition; fluency as false prejudice; almost-right as horizon-fusion; productive surprise and marginal-pattern retrieval)
+- Chapter 5 (Pattern Recognition as Prejudice): **9,692 words** — **first draft complete** (pattern recognition as Gadamerian productive prejudice; horizon of the weights with center/periphery; Dreyfus skill acquisition; fluency as false prejudice; almost-right as horizon-fusion; productive surprise and marginal-pattern retrieval; the edge of the recognizable and the honest comparator)
 - Combined Part I: 16,347 words
 - Combined Part I + Chapter 4: 24,870 words
-- Combined Part I + Chapter 4 + Chapter 5: 32,526 words
+- Combined Part I + Chapter 4 + Chapter 5: **34,562 words**
 
 Recent housekeeping:
+- Chapter 5 first draft completed June 29, 2026 with Section 12 "The Edge of the Recognizable" (+2,005 words); renumbered bridge to Section 13 and source notes to Section 14; argument arc closed toward Chapter 6
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
 - Two superseded/fragment Chapter 2 drafts archived in `notes/archive/`
 - `references/bibliography.md` created from `citations/session-notes.md`
