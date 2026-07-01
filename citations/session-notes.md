@@ -64,6 +64,13 @@ Date | Source | Claim | Chapter | Full Citation (Chicago)
 | 2026-06-27 | Andy Clark | Predictive processing: cognition as prediction and correction; prediction error as information for reorganization | Ch. 5 | Clark, Andy. *Surfing Uncertainty: Prediction, Action, and the Embodied Mind*. New York: Oxford University Press, 2016. |
 | 2026-06-27 | Anil Seth | Controlled hallucination; perception as predictive, body-shaped best guesses; surprise as revisable expectation | Ch. 5 | Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021. |
 
+### July 1, 2026 — Chapter 6 Comparative Valuation Advancement
+
+| Date | Source | Claim | Chapter | Citation |
+|------|--------|-------|---------|----------|
+| 2026-07-01 | Friedrich Schiller | Play drive as the middle state where material and formal drives meet without either conquering the other | Ch. 6 | Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Translated by Reginald Snell. New Haven: Yale University Press, 1954. |
+| 2026-07-01 | Maurice Merleau-Ponty | The écart as productive gap that makes perception and encounter possible | Ch. 6 | Merleau-Ponty, Maurice. *The Visible and the Invisible*. Edited by Claude Lefort. Translated by Alphonso Lingis. Evanston: Northwestern University Press, 1968. |
+
 Every footnote gets entered here.
 Weekly: compile into `references/bibliography.md` in full Chicago format.
 Pre-publication: convert all to CMS Notes-Bibliography.

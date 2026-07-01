@@ -58,7 +58,7 @@
 **Summary:** The act of placing one thing against another. Ichiji no hana — the first flower, the initial discrimination. Not yet taste but the condition of taste. The self that compares is never neutral; it discloses its historically shaped horizon in every ranking. Preference cannot be reduced to probability. The honest comparator witnesses before ranking and moves across local and global scales. Comparison reveals the almost-right by making the disturbance between cases visible. It carries ethical weight because every ranking distributes attention and shapes worlds. Some cases resist comparison; the tasteful self knows when to wait. Personal narrative: learning to rank drafts by honesty rather than by borrowed philosophical convention. Leads directly into Part III: Tension.
 **Word target:** 7,000
 **Sources:** Zeami; Gadamer; comparative aesthetics traditions; ecological psychology (Gibson affordances)
-**Status:** ✅ First draft opened and advanced (~4,235 words across 12 sections)
+**Status:** 🔄 First draft advanced — **6,534 words** across 14 sections; argument arc closes toward Part III: Tension; final push to 7,000-word target remains for next session
 
 ---
 

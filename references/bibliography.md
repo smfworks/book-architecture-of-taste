@@ -44,6 +44,8 @@ Kierkegaard, Søren. *Fear and Trembling*. Translated by Walter Lowrie. Princeto
 
 Merleau-Ponty, Maurice. *Phenomenology of Perception*. Translated by Donald A. Landes. London: Routledge, 2012.
 
+Merleau-Ponty, Maurice. *The Visible and the Invisible*. Edited by Claude Lefort. Translated by Alphonso Lingis. Evanston: Northwestern University Press, 1968.
+
 Nehamas, Alexander. *Only a Promise of Happiness: The Place of Beauty in a World of Art*. Princeton: Princeton University Press, 2007.
 
 Proust, Marcel. *In Search of Lost Time*. Translated by C. K. Scott Moncrieff and Terence Kilmartin. New York: Modern Library, 1992.
@@ -51,6 +53,8 @@ Proust, Marcel. *In Search of Lost Time*. Translated by C. K. Scott Moncrieff an
 Ricoeur, Paul. *Oneself as Another*. Translated by Kathleen Blamey. Chicago: University of Chicago Press, 1992.
 
 Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Edited and translated by Elizabeth M. Wilkinson and L.A. Willoughby. Oxford: Clarendon Press, 1967.
+
+Schiller, Friedrich. *On the Aesthetic Education of Man in a Series of Letters*. Translated by Reginald Snell. New Haven: Yale University Press, 1954.
 
 Seth, Anil. *Being You: A New Science of Consciousness*. New York: Dutton, 2021.
 
@@ -60,4 +64,4 @@ Zeami Motokiyo. *Fūshikaden*. In *Zeami: Performance Notes*, edited and transla
 
 ---
 
-*Last updated: June 26, 2026*
+*Last updated: July 1, 2026* — added Merleau-Ponty, *The Visible and the Invisible* (Lefort/Lingis, 1968) and Schiller, *Aesthetic Education* (Snell, 1954) for Chapter 6 citations.

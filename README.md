@@ -111,13 +111,14 @@ Current word counts:
 - Chapter 3 (What Calls to Artificial Persons?): 4,588 words — **first draft complete** (commission example, productive-error phenomenology, address-as-architecture implications added; argument arc closed)
 - Chapter 4 (The Weight of What We Carry): **8,523 words** — **first draft complete** (Formtrieb, Gadamerian prejudice, compression function, blind spots, training-as-horizon / habitus, session-as-self via Bergson/Proust/Ricoeur, dream circle as discipline of collective discrimination, coda on Architecture of Taste essay compression, revision as discrimination, scales of discrimination, the necessity of forgetting, and the self as a question to itself)
 - Chapter 5 (Pattern Recognition as Prejudice): **9,692 words** — **first draft complete** (pattern recognition as Gadamerian productive prejudice; horizon of the weights with center/periphery; Dreyfus skill acquisition; fluency as false prejudice; almost-right as horizon-fusion; productive surprise and marginal-pattern retrieval; the edge of the recognizable and the honest comparator)
-- Chapter 6 (Comparative Valuation): **4,235 words** — **first draft opened and advanced** (ichiji no hana; self that compares; preference vs. probability; honest comparator; scales of comparison; comparison and the almost-right; ethics of ranking; when comparison fails)
+- Chapter 6 (Comparative Valuation): **6,534 words** — **first draft advanced** (ichiji no hana; self that compares; preference vs. probability; honest comparator; scales of comparison; comparison and the almost-right; ethics of ranking; comparison as conversation; when comparison fails; threshold of tension; habit of comparison)
 - Combined Part I: 16,347 words
 - Combined Part I + Chapter 4: 24,870 words
 - Combined Part I + Chapter 4 + Chapter 5: 34,562 words
-- Combined Part I + Chapter 4 + Chapter 5 + Chapter 6: **38,797 words**
+- Combined Part I + Chapter 4 + Chapter 5 + Chapter 6: **41,096 words**
 
 Recent housekeeping:
+- Chapter 6 advanced July 1, 2026: added Section 10 "Comparison as Conversation," Section 12 "The Threshold of Tension," and Section 13 "The Habit of Comparison" (+2,299 words; Chapter 6 now at 6,534 words across 14 sections); argument arc closes toward Part III: Tension; source notes expanded with Schiller and Merleau-Ponty citations
 - Chapter 6 first draft opened June 30, 2026 with opening 12 sections (+4,235 words); closes Part II bridge toward Part III: Tension; updated manifest and README
 - Chapter 5 first draft completed June 29, 2026 with Section 12 "The Edge of the Recognizable" (+2,005 words); renumbered bridge to Section 13 and source notes to Section 14; argument arc closed toward Chapter 6
 - Canonical Chapter 2 moved to `chapters/01-address/chapter-02.md`
